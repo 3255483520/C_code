@@ -6,7 +6,6 @@ void InitContact(struct Contact* ps)
 {
 	memset(ps->data, 0, sizeof(ps->data));
 	ps->size = 0;//设置通讯录最初只有0个元素
-
 }
 
 void AddContact(struct Contact* ps)
@@ -52,5 +51,39 @@ void ShowContact(const struct Contact* ps)
 				ps->data[i].tele,
 				ps->data[i].addr);
 		}
+	}
+}
+
+void DelContact(struct Contact* ps)
+{
+	char name[MAX_NAME];
+	printf("请输入要删除人的名字:>");
+	scanf("%s", name);
+	//1 查找要删除的人在什么位置
+	int i = 0;
+	//size 5
+	for (i = 0; i < ps->size; i++)
+	{
+		if (0 == strcmp(ps->data[i].name, name))
+		{
+			break;
+		}
+	}
+
+	//2 删除
+	if (i == ps->size)
+	{
+		printf("要删除的人不存在\n");
+	}
+	else
+	{
+		//删除数据
+		int j = 0;
+		for (j = i; j < ps->size - 1; j++)
+		{
+			ps->data[j] = ps->data[j + 1];
+		}
+		ps->size--;
+		printf("删除成功\n");
 	}
 }
