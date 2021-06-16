@@ -67,3 +67,6 @@ void DestroyContact(struct Contact* ps);
 
 //保存文件
 void SaveContact(struct Contact* ps);
+
+//加载文件中的信息到通讯录
+void LoadContact(struct Contact* ps);
