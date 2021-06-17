@@ -1,0 +1,10 @@
+file:f:\姚标\c语言资料\自己写的c语言程序\p81\p81\test.c line:42 date:Jun 17 2021 time:15:00:58 i=0
+file:f:\姚标\c语言资料\自己写的c语言程序\p81\p81\test.c line:42 date:Jun 17 2021 time:15:00:58 i=1
+file:f:\姚标\c语言资料\自己写的c语言程序\p81\p81\test.c line:42 date:Jun 17 2021 time:15:00:58 i=2
+file:f:\姚标\c语言资料\自己写的c语言程序\p81\p81\test.c line:42 date:Jun 17 2021 time:15:00:58 i=3
+file:f:\姚标\c语言资料\自己写的c语言程序\p81\p81\test.c line:42 date:Jun 17 2021 time:15:00:58 i=4
+file:f:\姚标\c语言资料\自己写的c语言程序\p81\p81\test.c line:42 date:Jun 17 2021 time:15:00:58 i=5
+file:f:\姚标\c语言资料\自己写的c语言程序\p81\p81\test.c line:42 date:Jun 17 2021 time:15:00:58 i=6
+file:f:\姚标\c语言资料\自己写的c语言程序\p81\p81\test.c line:42 date:Jun 17 2021 time:15:00:58 i=7
+file:f:\姚标\c语言资料\自己写的c语言程序\p81\p81\test.c line:42 date:Jun 17 2021 time:15:00:58 i=8
+file:f:\姚标\c语言资料\自己写的c语言程序\p81\p81\test.c line:42 date:Jun 17 2021 time:15:00:58 i=9
