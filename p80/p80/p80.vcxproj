@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{33DC60FA-5AEC-4208-914D-774A3FEC695B}</ProjectGuid>
-    <RootNamespace>p73</RootNamespace>
+    <ProjectGuid>{119C9663-6F6E-4C7A-BA59-177113F9F0EC}</ProjectGuid>
+    <RootNamespace>p80</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -65,11 +65,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="contact.c" />
     <ClCompile Include="test.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="contact.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
