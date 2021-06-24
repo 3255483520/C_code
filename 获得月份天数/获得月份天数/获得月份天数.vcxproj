@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D785E117-26D7-49DA-8BFF-2DACB3193B91}</ProjectGuid>
-    <RootNamespace>小乐乐算多少人被请家长</RootNamespace>
+    <ProjectGuid>{2A650501-369E-4B5E-85BB-E96C51FB21F4}</ProjectGuid>
+    <RootNamespace>获得月份天数</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
