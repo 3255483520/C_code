@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "序列中整数去重", "序列中整数去重\序列中整数去重.vcxproj", "{205AF270-6E45-4A0F-BD1D-A3E9873CA026}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "杨辉三角", "杨辉三角\杨辉三角.vcxproj", "{0B8FA9B5-7CB4-408C-ACB2-FBA83D536C46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{205AF270-6E45-4A0F-BD1D-A3E9873CA026}.Debug|Win32.ActiveCfg = Debug|Win32
-		{205AF270-6E45-4A0F-BD1D-A3E9873CA026}.Debug|Win32.Build.0 = Debug|Win32
-		{205AF270-6E45-4A0F-BD1D-A3E9873CA026}.Release|Win32.ActiveCfg = Release|Win32
-		{205AF270-6E45-4A0F-BD1D-A3E9873CA026}.Release|Win32.Build.0 = Release|Win32
+		{0B8FA9B5-7CB4-408C-ACB2-FBA83D536C46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B8FA9B5-7CB4-408C-ACB2-FBA83D536C46}.Debug|Win32.Build.0 = Debug|Win32
+		{0B8FA9B5-7CB4-408C-ACB2-FBA83D536C46}.Release|Win32.ActiveCfg = Release|Win32
+		{0B8FA9B5-7CB4-408C-ACB2-FBA83D536C46}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

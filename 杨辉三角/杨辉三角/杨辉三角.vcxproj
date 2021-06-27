@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{205AF270-6E45-4A0F-BD1D-A3E9873CA026}</ProjectGuid>
-    <RootNamespace>序列中整数去重</RootNamespace>
+    <ProjectGuid>{0B8FA9B5-7CB4-408C-ACB2-FBA83D536C46}</ProjectGuid>
+    <RootNamespace>杨辉三角</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
