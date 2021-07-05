@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|F:\姚标\C语言资料\刷题\c_test\求一个整数存储在内存中的二进制中1的个数(3种方法，第三种方法最好)\|
