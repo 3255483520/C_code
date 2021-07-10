@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{027D94AD-AB2D-4B5C-BD3B-A79209C1E105}</ProjectGuid>
-    <RootNamespace>qsort函数排序（可以排各种类型的数据）</RootNamespace>
+    <ProjectGuid>{415955BC-F96D-4958-B237-464EDF01EA23}</ProjectGuid>
+    <RootNamespace>qsort函数排序（可以排各种类型的数据）（自定义实现qsort函数）</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
