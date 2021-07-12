@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5位运动员参加了10米台跳水比赛,比赛结束后，每位选手都说对了一半，请编程确定比赛的名次", "5位运动员参加了10米台跳水比赛,比赛结束后，每位选手都说对了一半，请编程确定比赛的名次\5位运动员参加了10米台跳水比赛,比赛结束后，每位选手都说对了一半，请编程确定比赛的名次.vcxproj", "{240633FB-126D-41BA-99A8-846A7F8AA81C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240633FB-126D-41BA-99A8-846A7F8AA81C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{240633FB-126D-41BA-99A8-846A7F8AA81C}.Debug|Win32.Build.0 = Debug|Win32
+		{240633FB-126D-41BA-99A8-846A7F8AA81C}.Release|Win32.ActiveCfg = Release|Win32
+		{240633FB-126D-41BA-99A8-846A7F8AA81C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
