@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|F:\姚标\C语言资料\刷题\c_test\日本某地发生了一件谋杀案，警察通过排查确定杀人凶手必为4个,根据这些信息，写一个程序来确定到底谁是凶手\|
