@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|F:\姚标\C语言资料\刷题\c_test\宏offseoff的自定义实现（offsetof是一个宏，不是一个函数，这一点要记住）\|

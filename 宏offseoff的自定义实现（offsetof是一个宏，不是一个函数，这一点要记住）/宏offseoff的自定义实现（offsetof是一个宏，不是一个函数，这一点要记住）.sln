@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "宏offseoff的自定义实现（offsetof是一个宏，不是一个函数，这一点要记住）", "宏offseoff的自定义实现（offsetof是一个宏，不是一个函数，这一点要记住）\宏offseoff的自定义实现（offsetof是一个宏，不是一个函数，这一点要记住）.vcxproj", "{BDFAC74A-B252-4A14-A28C-61B78674D579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFAC74A-B252-4A14-A28C-61B78674D579}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDFAC74A-B252-4A14-A28C-61B78674D579}.Debug|Win32.Build.0 = Debug|Win32
+		{BDFAC74A-B252-4A14-A28C-61B78674D579}.Release|Win32.ActiveCfg = Release|Win32
+		{BDFAC74A-B252-4A14-A28C-61B78674D579}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
